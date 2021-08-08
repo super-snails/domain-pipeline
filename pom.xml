@@ -28,6 +28,19 @@
             <version>2.4.4</version>
         </dependency>
         <!--  对象转换 end -->
+        <!--  lombok start    -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+        <!--  lombok end    -->
     </dependencies>
 
 </project>

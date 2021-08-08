@@ -1,0 +1,7 @@
+com/tsing/product/api/dict/bo/request/ProductDictUpdateRequest.class
+com/tsing/product/api/dict/bo/request/ProductDictSaveRequest.class
+com/tsing/product/api/dict/bo/reponse/ProductDictPageReponse.class
+com/tsing/global/result/ResultPageData.class
+com/tsing/product/api/teambuilding/bo/request/TeambuildingDeleteRequest.class
+com/tsing/product/api/teambuilding/bo/request/TeambuildingUpdateRequest.class
+com/tsing/product/api/teambuilding/bo/request/TeambuildingSaveRequest.class
