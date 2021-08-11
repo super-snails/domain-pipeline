@@ -8,8 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da5b0fcd-d3be-4c85-be45-e2f3a28ea9a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsing/product/api/dict/bo/request/ProductDictSaveRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsing/product/api/dict/bo/request/ProductDictSaveRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsing/product/api/teambuilding/bo/request/TeambuildingSaveRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsing/product/api/teambuilding/bo/request/TeambuildingSaveRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tsing/product/api/dict/bo/request/ProductDictSaveRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsing/product/api/dict/bo/request/ProductDictSaveRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tsing/product/api/teambuilding/bo/request/TeambuildingSaveRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsing/product/api/teambuilding/bo/request/TeambuildingSaveRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/domain-pipeline-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/domain-pipeline-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tsing.global.result.ResultDataTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tsing.global.result.ResultDataTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.tsing.global.result.ResultDataTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.tsing.global.result.ResultDataTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,17 +105,6 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.ResultDataTest.testSuccess">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ResultDataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage">
         <pattern>
@@ -156,8 +153,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ResultDataTest.testSuccess" />
-        <item itemvalue="JUnit.ResultDataTest" />
         <item itemvalue="JUnit.ResultDataTest.testSuccess (1)" />
+        <item itemvalue="JUnit.ResultDataTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +170,8 @@
       <workItem from="1627774201154" duration="4845000" />
       <workItem from="1627784914934" duration="1626000" />
       <workItem from="1627787301419" duration="6472000" />
-      <workItem from="1627805405369" duration="17698000" />
+      <workItem from="1627805405369" duration="23034000" />
+      <workItem from="1628643912465" duration="1863000" />
     </task>
     <task id="LOCAL-00001" summary=":sparkles: 团建游产品列表查询">
       <created>1627805863233</created>
