@@ -8,6 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da5b0fcd-d3be-4c85-be45-e2f3a28ea9a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsing/product/api/demo/service/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsing/product/api/dict/service/ProductDictService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tsing/global/result/ResultData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsing/global/result/ResultData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tsing/global/result/ResultPageData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsing/global/result/ResultPageData.java" afterDir="false" />
@@ -186,7 +188,7 @@
       <workItem from="1627784914934" duration="1626000" />
       <workItem from="1627787301419" duration="6472000" />
       <workItem from="1627805405369" duration="23034000" />
-      <workItem from="1628643912465" duration="7025000" />
+      <workItem from="1628643912465" duration="7211000" />
     </task>
     <task id="LOCAL-00001" summary=":sparkles: 团建游产品列表查询">
       <created>1627805863233</created>
@@ -209,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628722927793</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="低层服务第一版本">
+      <created>1628781365520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628781365520</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
