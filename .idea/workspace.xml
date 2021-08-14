@@ -8,18 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da5b0fcd-d3be-4c85-be45-e2f3a28ea9a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsing/product/api/demo/service/DemoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsing/product/api/dict/service/ProductDictService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsing/global/result/ResultData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsing/global/result/ResultData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsing/global/result/ResultPageData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsing/global/result/ResultPageData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsing/global/result/ResultData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsing/global/result/ResultData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsing/global/result/ResultPageData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsing/global/result/ResultPageData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/domain-pipeline-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/domain-pipeline-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tsing.global.result.ResultDataTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tsing.global.result.ResultDataTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.tsing.global.result.ResultDataTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.tsing.global.result.ResultDataTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +177,7 @@
       <workItem from="1627784914934" duration="1626000" />
       <workItem from="1627787301419" duration="6472000" />
       <workItem from="1627805405369" duration="23034000" />
-      <workItem from="1628643912465" duration="7211000" />
+      <workItem from="1628643912465" duration="8442000" />
     </task>
     <task id="LOCAL-00001" summary=":sparkles: 团建游产品列表查询">
       <created>1627805863233</created>
@@ -218,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628781365520</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="低层服务第一版本">
+      <created>1628781585650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628781585650</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
